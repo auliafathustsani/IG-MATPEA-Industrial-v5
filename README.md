@@ -992,24 +992,15 @@ IG-MATPEA-Industrial-v5/
 │
 ├── MQL5/
 │   └── Experts/
-│       └── IG_MATPEA_Industrial_v5.mq5
 │
 ├── Report/
-│   └── Laporan_IG-MATPEA_Industrial_v5.docx
 │
 ├── Backtest/
-│   ├── EURUSDm_Full_Backtest.txt
-│   └── EURUSDm_Forward_Test.txt
+│   └── Grafik/
 │
 ├── Screenshots/
-│   ├── tester_settings.png
-│   ├── optimization_pass153.png
-│   ├── full_backtest.png
-│   └── forward_test.png
 │
-├── README.md
-│
-└── LICENSE
+└── README.md
 ```
 
 ---
